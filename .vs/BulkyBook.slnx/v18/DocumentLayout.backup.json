@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\source\\repos\\BulkyBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\visualstudio\\source\\repos\\bulkybook\\bulkybookweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\visualstudio\\source\\repos\\bulkybook\\bulkybookweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E105D01-B89B-4E37-976D-D27D71DC442B}|BulkyBookDataAccess\\BulkyBookDataAccess.csproj|d:\\visualstudio\\source\\repos\\bulkybook\\bulkybookdataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E105D01-B89B-4E37-976D-D27D71DC442B}|BulkyBookDataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulkybookdataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\visualstudio\\source\\repos\\bulkybook\\bulkybookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\appsettings.Development.json",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\appsettings.Development.json*",
+              "RelativeToolTip": "BulkyBookWeb\\appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-26T10:25:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\appsettings.Production.json",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\appsettings.Production.json",
+              "RelativeToolTip": "BulkyBookWeb\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-26T10:24:43.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookDataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "BulkyBookDataAccess\\DbInitializer\\DbInitializer.cs",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookDataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeToolTip": "BulkyBookDataAccess\\DbInitializer\\DbInitializer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:02:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\Program.cs",
+              "RelativeToolTip": "BulkyBookWeb\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:00:47.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

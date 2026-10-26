@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mailjet.Api" Version="4.0.1" />
+    <PackageReference Include="Stripe.net" Version="53.0.0" />
+    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="10.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BulkyBookDataAccess\BulkyBookDataAccess.csproj" />
+    <ProjectReference Include="..\BulkyBookModels\BulkyBookModels.csproj" />
+    <ProjectReference Include="..\BulkyBookUtility\BulkyBookUtility.csproj" />
+  </ItemGroup>
+
+</Project>

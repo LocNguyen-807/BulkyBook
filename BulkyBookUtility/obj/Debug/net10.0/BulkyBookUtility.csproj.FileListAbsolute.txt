@@ -1,0 +1,13 @@
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\bin\Debug\net10.0\BulkyBookUtility.deps.json
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\bin\Debug\net10.0\BulkyBookUtility.dll
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\bin\Debug\net10.0\BulkyBookUtility.pdb
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\BulkyBookUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\BulkyBookUtility.AssemblyInfoInputs.cache
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\BulkyBookUtility.AssemblyInfo.cs
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\BulkyBookUtility.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\BulkyBookUtility.dll
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\refint\BulkyBookUtility.dll
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\BulkyBookUtility.pdb
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\ref\BulkyBookUtility.dll
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\BulkyBookUtility.csproj.AssemblyReference.cache
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookUtility\obj\Debug\net10.0\BulkyBoo.00D7A837.Up2Date
