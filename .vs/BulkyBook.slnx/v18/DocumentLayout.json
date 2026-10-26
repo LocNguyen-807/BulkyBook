@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\VisualStudio\\source\\repos\\BulkyBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\visualstudio\\source\\repos\\bulkybook\\bulkybookweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\visualstudio\\source\\repos\\bulkybook\\bulkybookweb\\areas\\identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\visualstudio\\source\\repos\\bulkybook\\bulkybookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\visualstudio\\source\\repos\\bulkybook\\bulkybookweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12B9127B-7FC5-5E71-AAFD-3B4ECDCFD278}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T19:04:24.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -43,32 +52,6 @@
               "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T18:52:41.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAvwFYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T18:36:50.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Upsert.cshtml",
-              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ToolTip": "D:\\VisualStudio\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-26T18:33:56.044Z",
               "EditorCaption": ""
             }
           ]
