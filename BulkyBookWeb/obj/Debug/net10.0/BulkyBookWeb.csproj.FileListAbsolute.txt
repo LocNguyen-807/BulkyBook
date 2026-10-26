@@ -427,3 +427,5 @@ D:\VisualStudio\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net10.0\compressed
 D:\VisualStudio\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net10.0\Mailjet.Client.dll
 D:\VisualStudio\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net10.0\Stripe.net.dll
 D:\VisualStudio\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net10.0\compressed\w7zu5bri3k-{0}-ytnrx4u11i-ytnrx4u11i.gz
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net10.0\appsettings.Production.json
+D:\VisualStudio\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net10.0\BulkyBookWeb.sourcelink.json

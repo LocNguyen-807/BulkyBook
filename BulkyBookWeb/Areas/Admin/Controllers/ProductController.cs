@@ -86,7 +86,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                         file.CopyTo(fileStream);
                     }
 
-                    productVM.Product.ImageUrl = Path.Combine(@"\", productPath, fileName).Replace("\\", "/");
+                    productVM.Product.ImageUrl = $"/images/products/{fileName}";
                 }
 
                 if (productVM.Product.Id == null || productVM.Product.Id == 0)
